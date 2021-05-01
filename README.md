@@ -49,7 +49,7 @@ JSON
 
 ````sh
 {
-	"name": "Kayza",
+  "name": "Kayza",
   "username": "Kayza"
 }
 ````
